@@ -1,3 +1,6 @@
-##Enlin(Jason) Chen's Notes
+## Enlin(Jason) Chen's Notes
 
-minor change
+#### Summary 
+
+This repository contains all of the notes taken by [Jason Chen](https://github.com/zhuicode99) for the [Lighthouse Labs](https://www.lighthouselabs.ca) Web Development Bootcamp.
+
